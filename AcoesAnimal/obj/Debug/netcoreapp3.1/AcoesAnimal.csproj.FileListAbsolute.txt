@@ -1,0 +1,14 @@
+C:\git\TesteGFT\TesteGFT\AcoesAnimal\bin\Debug\netcoreapp3.1\AcoesAnimal.exe
+C:\git\TesteGFT\TesteGFT\AcoesAnimal\bin\Debug\netcoreapp3.1\AcoesAnimal.deps.json
+C:\git\TesteGFT\TesteGFT\AcoesAnimal\bin\Debug\netcoreapp3.1\AcoesAnimal.runtimeconfig.json
+C:\git\TesteGFT\TesteGFT\AcoesAnimal\bin\Debug\netcoreapp3.1\AcoesAnimal.runtimeconfig.dev.json
+C:\git\TesteGFT\TesteGFT\AcoesAnimal\bin\Debug\netcoreapp3.1\AcoesAnimal.dll
+C:\git\TesteGFT\TesteGFT\AcoesAnimal\bin\Debug\netcoreapp3.1\AcoesAnimal.pdb
+C:\git\TesteGFT\TesteGFT\AcoesAnimal\obj\Debug\netcoreapp3.1\AcoesAnimal.csproj.AssemblyReference.cache
+C:\git\TesteGFT\TesteGFT\AcoesAnimal\obj\Debug\netcoreapp3.1\AcoesAnimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\TesteGFT\TesteGFT\AcoesAnimal\obj\Debug\netcoreapp3.1\AcoesAnimal.AssemblyInfoInputs.cache
+C:\git\TesteGFT\TesteGFT\AcoesAnimal\obj\Debug\netcoreapp3.1\AcoesAnimal.AssemblyInfo.cs
+C:\git\TesteGFT\TesteGFT\AcoesAnimal\obj\Debug\netcoreapp3.1\AcoesAnimal.csproj.CoreCompileInputs.cache
+C:\git\TesteGFT\TesteGFT\AcoesAnimal\obj\Debug\netcoreapp3.1\AcoesAnimal.dll
+C:\git\TesteGFT\TesteGFT\AcoesAnimal\obj\Debug\netcoreapp3.1\AcoesAnimal.pdb
+C:\git\TesteGFT\TesteGFT\AcoesAnimal\obj\Debug\netcoreapp3.1\AcoesAnimal.genruntimeconfig.cache

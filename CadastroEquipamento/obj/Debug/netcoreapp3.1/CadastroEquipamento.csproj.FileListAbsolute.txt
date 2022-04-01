@@ -1,0 +1,5 @@
+C:\git\TesteGFT\TesteGFT\CadastroEquipamento\obj\Debug\netcoreapp3.1\CadastroEquipamento.csproj.AssemblyReference.cache
+C:\git\TesteGFT\TesteGFT\CadastroEquipamento\obj\Debug\netcoreapp3.1\CadastroEquipamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\TesteGFT\TesteGFT\CadastroEquipamento\obj\Debug\netcoreapp3.1\CadastroEquipamento.AssemblyInfoInputs.cache
+C:\git\TesteGFT\TesteGFT\CadastroEquipamento\obj\Debug\netcoreapp3.1\CadastroEquipamento.AssemblyInfo.cs
+C:\git\TesteGFT\TesteGFT\CadastroEquipamento\obj\Debug\netcoreapp3.1\CadastroEquipamento.csproj.CoreCompileInputs.cache

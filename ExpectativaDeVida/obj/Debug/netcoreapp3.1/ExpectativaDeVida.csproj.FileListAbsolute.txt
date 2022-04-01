@@ -1,0 +1,14 @@
+C:\git\TesteGFT\TesteGFT\ExpectativaDeVida\bin\Debug\netcoreapp3.1\ExpectativaDeVida.exe
+C:\git\TesteGFT\TesteGFT\ExpectativaDeVida\bin\Debug\netcoreapp3.1\ExpectativaDeVida.deps.json
+C:\git\TesteGFT\TesteGFT\ExpectativaDeVida\bin\Debug\netcoreapp3.1\ExpectativaDeVida.runtimeconfig.json
+C:\git\TesteGFT\TesteGFT\ExpectativaDeVida\bin\Debug\netcoreapp3.1\ExpectativaDeVida.runtimeconfig.dev.json
+C:\git\TesteGFT\TesteGFT\ExpectativaDeVida\bin\Debug\netcoreapp3.1\ExpectativaDeVida.dll
+C:\git\TesteGFT\TesteGFT\ExpectativaDeVida\bin\Debug\netcoreapp3.1\ExpectativaDeVida.pdb
+C:\git\TesteGFT\TesteGFT\ExpectativaDeVida\obj\Debug\netcoreapp3.1\ExpectativaDeVida.csproj.AssemblyReference.cache
+C:\git\TesteGFT\TesteGFT\ExpectativaDeVida\obj\Debug\netcoreapp3.1\ExpectativaDeVida.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\TesteGFT\TesteGFT\ExpectativaDeVida\obj\Debug\netcoreapp3.1\ExpectativaDeVida.AssemblyInfoInputs.cache
+C:\git\TesteGFT\TesteGFT\ExpectativaDeVida\obj\Debug\netcoreapp3.1\ExpectativaDeVida.AssemblyInfo.cs
+C:\git\TesteGFT\TesteGFT\ExpectativaDeVida\obj\Debug\netcoreapp3.1\ExpectativaDeVida.csproj.CoreCompileInputs.cache
+C:\git\TesteGFT\TesteGFT\ExpectativaDeVida\obj\Debug\netcoreapp3.1\ExpectativaDeVida.dll
+C:\git\TesteGFT\TesteGFT\ExpectativaDeVida\obj\Debug\netcoreapp3.1\ExpectativaDeVida.pdb
+C:\git\TesteGFT\TesteGFT\ExpectativaDeVida\obj\Debug\netcoreapp3.1\ExpectativaDeVida.genruntimeconfig.cache

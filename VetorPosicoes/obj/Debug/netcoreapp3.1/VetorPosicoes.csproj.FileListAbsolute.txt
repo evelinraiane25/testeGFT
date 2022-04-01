@@ -1,0 +1,14 @@
+C:\git\TesteGFT\TesteGFT\VetorPosicoes\obj\Debug\netcoreapp3.1\VetorPosicoes.csproj.AssemblyReference.cache
+C:\git\TesteGFT\TesteGFT\VetorPosicoes\obj\Debug\netcoreapp3.1\VetorPosicoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\TesteGFT\TesteGFT\VetorPosicoes\obj\Debug\netcoreapp3.1\VetorPosicoes.AssemblyInfoInputs.cache
+C:\git\TesteGFT\TesteGFT\VetorPosicoes\obj\Debug\netcoreapp3.1\VetorPosicoes.AssemblyInfo.cs
+C:\git\TesteGFT\TesteGFT\VetorPosicoes\obj\Debug\netcoreapp3.1\VetorPosicoes.csproj.CoreCompileInputs.cache
+C:\git\TesteGFT\TesteGFT\VetorPosicoes\bin\Debug\netcoreapp3.1\VetorPosicoes.exe
+C:\git\TesteGFT\TesteGFT\VetorPosicoes\bin\Debug\netcoreapp3.1\VetorPosicoes.deps.json
+C:\git\TesteGFT\TesteGFT\VetorPosicoes\bin\Debug\netcoreapp3.1\VetorPosicoes.runtimeconfig.json
+C:\git\TesteGFT\TesteGFT\VetorPosicoes\bin\Debug\netcoreapp3.1\VetorPosicoes.runtimeconfig.dev.json
+C:\git\TesteGFT\TesteGFT\VetorPosicoes\bin\Debug\netcoreapp3.1\VetorPosicoes.dll
+C:\git\TesteGFT\TesteGFT\VetorPosicoes\bin\Debug\netcoreapp3.1\VetorPosicoes.pdb
+C:\git\TesteGFT\TesteGFT\VetorPosicoes\obj\Debug\netcoreapp3.1\VetorPosicoes.dll
+C:\git\TesteGFT\TesteGFT\VetorPosicoes\obj\Debug\netcoreapp3.1\VetorPosicoes.pdb
+C:\git\TesteGFT\TesteGFT\VetorPosicoes\obj\Debug\netcoreapp3.1\VetorPosicoes.genruntimeconfig.cache
